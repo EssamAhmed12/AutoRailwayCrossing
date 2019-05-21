@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bluetooth_not_available">البلوتوث غير متوفر</string>
+    <string name="call">اتصال</string>
+    <string name="connect">اتصال مع البلوتوث</string>
+    <string name="connection_lost">تم قطع الاتصال</string>
+    <string name="gate_close">"البوابة قفلت "</string>
+    <string name="gate_open">البوابة فتحت</string>
+    <string name="not_signal">حتى الان لا يوجد استقبال من البلوتوث</string>
+    <string name="off">غلق</string>
+    <string name="on">فتح</string>
+    <string name="title_activity_driver">سائق</string>
+    <string name="title_activity_gate_man">حارس البوابة</string>
+    <string name="unable_connection">"غير قادر "</string>
+    <string name="ar">العربية</string>
+    <string name="en">الانجليزية</string>
+    <string name="toast_arabic">"اللغة الان العربية "</string>
+    <string name="toast_english">اللغة الان الانجليزية</string>
+    <string name="toast_bluetooth_open">البلوتوث مفتوح الان</string>
+    <string name="connected_now">متصل الان</string>
+    <string name="toast_bluetooth_open_already">البلوتوث مفتوح بالفعل</string>
+    <string name="button_send">ارسال</string>
+    <string name="sign_out">تسجيل الخروج</string>
+    <string name="full_name">الاسم بالكامل</string>
+    <string name="email">البريد الالكترونى </string>
+    <string name="password">كلمة السر</string>
+    <string name="phone">الهاتف</string>
+    <string name="input_error_name">الاسم مطلوب</string>
+    <string name="input_error_email">الايميل مطلوب</string>
+    <string name="input_error_password">كلمة السر مطلوبة</string>
+    <string name="input_error_phone">الهاتف مطلوب</string>
+    <string name="input_error_password_length">يجب ان تكون كلمة السر اكثر من  6  حروف</string>
+    <string name="input_error_phone_invalid">ادخل رقم تليفون مفعل</string>
+    <string name="registration_success">تم تسجيل بنجاح</string>
+    <string name="input_error_email_invalid">ادخل ايميل مفعل</string>
+    <string name="sign_in">تسجيل الدخول</string>
+    <string name="sign_up">"افتح حساب الان "</string>
+    <string name="have_account">هل انت بالفعل لديك بريد الكترونى ؟ سجل الان</string>
+    <string name="not_have_account">هل ليس لديك اى ايميل ؟ من فضلك سجل الان</string>
+    <string name="send_location">ارسال المكان</string>
+    <string name="regestration">تسجيل</string>
+    <string name="get_location">مكان القطر</string>
+    <string name="about_us">معلومات عنا</string>
+    <string name="sign_up_successfully">تم تسجيل الدخول بنجاح</string>
+    <string name="login_failed">فشل التسجيل ! برجاء مراجعة البريد الالكترونى والباسورد</string>
+    <string name="account_state">اكونت لديك حالته : </string>
+    <string name="sign_out_successfuly">تم تسجيل الخروج بنجاح</string>
+    <string name="please_enter_email">من فضلك ادخل الايميل او رقمك</string>
+    <string name="please_enter_password">من فضلك ادخل كلمة السر</string>
+    <string name="contact_us">"تواصل معنا   "</string>
+    <string name="fire_department">رقم قسم المطافئ</string>
+    <string name="ambulance_number">رقم الاسعاف</string>
+    <string name="emergency_number">رقم الطوارئ</string>
+    <string name="choose_number">اختر رقم</string>
+    <string name="contact_us_dialog">رقم الهاتف :01021668075             البريد الالكترونى : Essamabdelbary@gmail.com</string>
+    <string name="about_us_dialog">نظام التحكم فى بوابات السكك الحديدية
+                لمساعدة رجل البوابة و السائق للتواصل مع بعضهم
+ويحدث انذار واشاره مرور لو القطر قادم الى بوابة
+       ولذلك لتحسين تكنولوجيا للبوابات         </string>
+</resources>

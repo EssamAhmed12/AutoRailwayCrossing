@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name" translatable="false">Control system for crossing railway gates</string>
+    <string name="title_activity_driver">Driver</string>
+    <string name="title_activity_gate_man">GateMan</string>
+    <string name="gate_man" translatable="false">Message here If The Train passed in sensor </string>
+    <string name="gate_close">The Gate is Closed Now</string>
+    <string name="gate_open">The Gate is open</string>
+    <string name="bluetooth_not_available">Bluetooth is not available"</string>
+    <string name="connection_lost">Connection lost</string>
+    <string name="unable_connection">Unable to connect</string>
+    <string name="connect">Connect</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="not_signal">Until now there is no Bluetooth receiver</string>
+    <string name="call">Call</string>
+    <string name="ar">Ar</string>
+    <string name="en">En</string>
+    <string name="toast_arabic">The language now is Arabic</string>
+    <string name="toast_english">The language now is English</string>
+    <string name="toast_bluetooth_open">The Bluetooth Open now</string>
+    <string name="connected_now">Connected now</string>
+    <string name="toast_bluetooth_open_already">The Bluetooth Open now</string>
+    <string name="button_send">Send</string>
+    <string name="sign_out">Sign out</string>
+    <string name="sign_out_successfuly">Sign out Successfully</string>
+    <string name="full_name">Full name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="phone">Phone</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="input_error_name">Name required</string>
+    <string name="input_error_email">Email required</string>
+    <string name="get_location">Get Location</string>
+    <string name="input_error_password">Password required</string>
+    <string name="input_error_phone">Phone required</string>
+    <string name="input_error_password_length">Password should be atleast 6 characters long</string>
+    <string name="input_error_phone_invalid">Enter a valid phone number</string>
+    <string name="registration_success">Registered Successfully</string>
+    <string name="input_error_email_invalid">Enter a valid email</string>
+    <string name="sign_in">Sign In</string>
+    <string name="have_account">Already Have an Account? Sign in NOW</string>
+    <string name="not_have_account">Are You Don\'t Have any account? please Sign up NOW</string>
+    <string name="send_location">Send Location</string>
+    <string name="regestration">Regestration</string>
+    <string name="about_us">About Us</string>
+    <string name="sign_up_successfully">Sign up Successfully</string>
+    <string name="login_failed">Login failed! Please check email and password</string>
+    <string name="account_state">Your Account State is :</string>
+    <string name="please_enter_email">Please enter Email</string>
+    <string name="please_enter_password">Please Enter Password</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="fire_department">Fire department Number</string>
+    <string name="ambulance_number">Ambulance number</string>
+    <string name="emergency_number">Emergency number</string>
+    <string name="choose_number">Choose a one Number</string>
+    <string name="about_us_dialog">Control system for crossing railway gates
+                to help driver and gate man to communicate  together
+                 and to alarm the gate man about the train is coming
+                 and to improve our technology in gates</string>
+    <string name="contact_us_dialog">phone Number : 01021668075
+        Email :  automaticrailwaycrossing@gmail.com</string>
+
+</resources>

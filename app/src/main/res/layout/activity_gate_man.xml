@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:gravity="center_vertical"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/connect"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/button_selector"
+            android:fontFamily="sans-serif-medium"
+            android:paddingLeft="15dp"
+            android:text="@string/connect"
+            android:textAlignment="center"
+            android:textColor="#fff"
+            android:textSize="26sp" />
+
+        <TextView
+            android:id="@+id/message"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/not_signal"
+            android:textSize="18dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:orientation="horizontal"
+            android:paddingTop="10dp">
+
+            <Button
+                android:id="@+id/on"
+                android:layout_width="120dp"
+                android:layout_height="70dp"
+                android:layout_marginRight="55dp"
+                android:layout_marginBottom="10dp"
+                android:background="@drawable/curve_bottom"
+                android:backgroundTint="@color/colorPrimary"
+                android:fontFamily="sans-serif-medium"
+                android:text="@string/on"
+                android:textAlignment="center"
+                android:textColor="#000"
+                android:textSize="26sp" />
+
+            <Button
+                android:id="@+id/off"
+                android:layout_width="120dp"
+                android:layout_height="70dp"
+                android:layout_marginBottom="10dp"
+                android:background="@drawable/curve_bottom"
+                android:backgroundTint="#CA0505"
+                android:fontFamily="sans-serif-medium"
+                android:text="@string/off"
+                android:textAlignment="center"
+                android:textColor="#000"
+                android:textSize="26sp" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/call"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/button_selector"
+            android:fontFamily="sans-serif-medium"
+            android:paddingLeft="15dp"
+            android:text="@string/call"
+            android:textColor="#fff"
+            android:textSize="26sp" />
+
+        <Button
+            android:id="@+id/getLocation"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/button_selector"
+            android:fontFamily="sans-serif-medium"
+            android:paddingLeft="15dp"
+            android:text="@string/get_location"
+            android:textColor="#fff"
+            android:textSize="26sp" />
+        <Button
+            android:id="@+id/about_us"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/button_selector"
+            android:fontFamily="sans-serif-medium"
+            android:paddingLeft="15dp"
+            android:text="@string/about_us"
+            android:textColor="#fff"
+            android:textSize="26sp" />
+        <Button
+            android:id="@+id/contact_us"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/button_selector"
+            android:fontFamily="sans-serif-medium"
+            android:paddingLeft="15dp"
+            android:text="@string/contact_us"
+            android:textColor="#fff"
+            android:textSize="26sp" />
+
+    </LinearLayout>
+</RelativeLayout>
